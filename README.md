@@ -10,8 +10,4 @@ Deploy Plausible Analytics server with CI/CD on Elestio
 
 # Once deployed ...
 
-You can open Plausible Analytics UI here:
-
-    URL: https://[CI_CD_DOMAIN]
-    Login: [ADMIN_EMAIL]
-    password: [ADMIN_PASSWORD]
+You'll have to register to use this software.
