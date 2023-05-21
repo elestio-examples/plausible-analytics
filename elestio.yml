@@ -13,7 +13,7 @@ environments:
   - key: "POSTGRES_USER"
     value: "postgres"
   - key: "POSTGRES_PASSWORD"
-    value: "random_password"
+    value: "postgres"
   - key: "BASE_URL"
     value: "https://[CI_CD_DOMAIN]"
   - key: "SECRET_KEY_BASE"
